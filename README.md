@@ -51,6 +51,13 @@ https://github.com/zsza83/homemade-15s-30s-candles
 
 Use **Discussions** for why-not-this-way replies. No tokens, no secrets, no exploit cookbooks.
 
+
+## Related: own activity calendar (sister OwnStack dockit)
+
+Not market data — same OwnStack idea on the CMS side: contribution-calendar *shape*, own HTML/CSS, no external widget.
+
+- Live article: https://vpnstronger.com/own-activity-calendar-familiar-shape-zero-external-widget
+- Repo + open questions: https://github.com/zsza83/own-activity-calendar
 ## License / tone
 
 Public dockit for peer review. Trading involves risk. Not financial advice. Not a hosted HFT service.
